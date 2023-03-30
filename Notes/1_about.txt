@@ -1,0 +1,10 @@
+create a web app that we can enter some text and its going to generate an image based on that.
+we are going to be able to d that using openAI DALL·E2.
+
+DALL·E 2 is an AI system that can create realistic images and art from a description in natural language.
+
+so if you write like "give me a frog on a computer drinking coffee" it will generate that image and it will 
+generate that image and it will create it from scratch using machine learning and AI  
+
+
+Every time this DALL·E 2 will create new image from scratch if you click on generate again for same image.
